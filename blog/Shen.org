@@ -1,0 +1,14 @@
+#+TITLE:       Shen
+#+AUTHOR:      ShenXuhui
+#+EMAIL:       shenxuhui@lol.local
+#+DATE:        2017-01-06 Fri
+#+URI:         /blog/%y/%m/%d/shen
+#+KEYWORDS:    resume
+#+TAGS:        resume
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: Who am I?
+
+I'm a double E, software engineer, and web developer. I grew up in Yancheng and have lived in Nanjing, Beijing, and Suzhou.
+
+When I'm not working, I'm running, reading, traveling, and trying new foods.
