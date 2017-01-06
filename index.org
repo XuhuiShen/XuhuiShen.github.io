@@ -1,0 +1,15 @@
+#+TITLE:       Nothing is true, everything is permitted.
+#+AUTHOR:      Xuhui Shen
+#+EMAIL:       shenxuhui1992@gmail.com
+#+DATE:        2017-01-06 Fri
+#+URI:         /
+#+KEYWORDS:    Lisp, Scheme, Emacs, Linux, C, C++, Org-page, Programming, Blog
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:nil -:t f:t *:t <:t
+#+DESCRIPTION: Home page of Xuhui Shen's personal site
+
+Where other men blindly follow the truth,\\
+Remember, Nothing is true.\\
+When other men are limited by of laws,\\
+Remember, Every thing is permitted.\\
+We work in the dark and serve the lights, we are assassins.\\
